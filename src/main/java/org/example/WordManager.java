@@ -31,7 +31,7 @@ public class WordManager {
             int menu = selectMenu();;
             if(menu == 0) break;
             if(menu == 4){
-                wordCRUD.addWord();//create
+                wordCRUD.addItem();//create
             }
             else if(menu == 1){
                 wordCRUD.listAll();//list
@@ -40,7 +40,7 @@ public class WordManager {
                 wordCRUD.updateItem();//update
             }
             else if(menu == 6){
-                //delete
+                wordCRUD.deleteItem();//delete
             }
 
         }
