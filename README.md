@@ -26,7 +26,7 @@
 ![image](https://github.com/mangmang1004/WordMasterProject/blob/main/screenshots/Add%20Word.png?raw=true)
 ![image](https://github.com/mangmang1004/WordMasterProject/blob/main/screenshots/Dictionary.png?raw=true)
 
-### 실행화면_After program again, Are all words displayed properly?
+### 실행화면_After program again, Are all words displayed properly? -> Yes
 ![image](https://user-images.githubusercontent.com/100568101/190389020-2a54f340-1eef-429a-b999-b7529219dbea.png)
 
 
